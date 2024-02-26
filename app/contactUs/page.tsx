@@ -1,6 +1,5 @@
-import Image from "next/image"
-import ContactForm from "../components/ContactForm"
-
+import Image from "next/image";
+import ContactForm from "../../components/ContactForm";
 
 const ContactUs = () => {
   return (
@@ -9,22 +8,48 @@ const ContactUs = () => {
         <div className="relative flex max-w-[1136px] h-[648px] mt-20 bg-white">
           <div className="flex justify-between mt-20 ml-32 w-auto h-[468px]">
             <div className="w-[500px] mt-20 gap-5">
-              <div className="text-5xl font-bold font-Satoshi tracking-[-3%] leading-[3rem]">Start Your Journey with us now</div>
-              <p className="text-[#75777A] mt-4">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure sint amet </p>
+              <div className="text-5xl font-bold font-Satoshi tracking-[-3%] leading-[3rem]">
+                Start Your Journey with us now
+              </div>
+              <p className="text-[#75777A] mt-4">
+                Ut enim ad minim veniam, quis nostrud exercitation ullamco
+                laboris nisi ut aliquip ex ea commodo consequat aute irure sint
+                amet{" "}
+              </p>
               <div className="mt-10">
                 <div className="text-xl font-semibold">Contact Information</div>
                 <div className="mt-[32px]">
                   <div className="flex flex-row w-[420px]">
-                    <Image src="/loc.svg" width={24} height={24} alt="location"></Image>
-                    <p className="text-[#75777A] ml-4">Unicare Fire Safety (India) Pvt. Ltd.C-34, Sector 65, Noida-201301, Delhi (NCR), (U.P).</p>
+                    <Image
+                      src="/loc.svg"
+                      width={24}
+                      height={24}
+                      alt="location"
+                    ></Image>
+                    <p className="text-[#75777A] ml-4">
+                      Unicare Fire Safety (India) Pvt. Ltd.C-34, Sector 65,
+                      Noida-201301, Delhi (NCR), (U.P).
+                    </p>
                   </div>
                   <div className="flex flex-row w-[420px] mt-3">
-                    <Image src="/phone.svg" width={24} height={24} alt="phone"></Image>
+                    <Image
+                      src="/phone.svg"
+                      width={24}
+                      height={24}
+                      alt="phone"
+                    ></Image>
                     <p className="text-[#75777A] ml-4">+44 16 8765 1098</p>
                   </div>
                   <div className="flex flex-row w-[420px] mt-3">
-                    <Image src="/mail.svg" width={24} height={24} alt="mail"></Image>
-                    <p className="text-[#75777A] ml-4">dummycompany@gmail.com</p>
+                    <Image
+                      src="/mail.svg"
+                      width={24}
+                      height={24}
+                      alt="mail"
+                    ></Image>
+                    <p className="text-[#75777A] ml-4">
+                      dummycompany@gmail.com
+                    </p>
                   </div>
                 </div>
               </div>
@@ -35,7 +60,7 @@ const ContactUs = () => {
           </div>
         </div>
       </div>
-      </>
-      )
-}
-export default ContactUs
+    </>
+  );
+};
+export default ContactUs;
