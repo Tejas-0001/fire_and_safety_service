@@ -4,6 +4,7 @@ import Product from "../components/product/product";
 import Client from "../components/client/client";
 import Review from "../components/review/review";
 import Faq from "../components/faq/page";
+import Services from "../components/Services";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Hero />
       <Product />
       <Client />
+      <Services />
       <Review />
       <Faq />
       <Contact />
