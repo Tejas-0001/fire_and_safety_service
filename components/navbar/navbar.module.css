@@ -1,0 +1,114 @@
+.navbar{
+    width: auto;
+    height: 88px;
+    border: 0px, 0px, 1px, 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: aqua;
+}
+
+.logo{
+    width: 82px;
+    height: 24px;
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 72px;    
+    z-index: 100;
+}
+
+.pages{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 36px;
+    position: absolute;
+    width: 200px;
+    height: 24px;
+    right: 72px;
+    top: 32px;
+}
+
+.products{
+    width: 62px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: #FFFFFF;
+}
+
+.productsa{
+    width: 62px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: black;
+}
+
+.productsaa{
+    width: 62px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: black;
+}
+
+.contactus{
+    width: 100px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: #FFFFFF;
+}
+
+.contactusa{
+    width: 100px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: black;
+}
+
+.contactusaa{
+    width: 100px;
+    height: 24px;    
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: justify;
+    letter-spacing: -0.02em;    
+    color: black;
+}
