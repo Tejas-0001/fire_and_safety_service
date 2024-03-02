@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       fontFamily:{
-        Satoshi:['Satoshi','serif']
+        sans:['var(--font-inter)']
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

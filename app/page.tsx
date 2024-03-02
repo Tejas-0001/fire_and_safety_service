@@ -5,17 +5,22 @@ import Client from "../components/client/client";
 import Review from "../components/review/review";
 import Faq from "../components/faq/page";
 import Services from "../components/Services";
+import Image from "next/image";
+
+
+
 
 export default function Home() {
   return (
-    <main className="w-full h-full overflow-x-hidden flex flex-col content-center align-middle">
-      <img
+    <main>
+      <div className="w-auto h-full flex flex-col content-center align-middle">
+      <Image
         className="-z-10 relative"
-        src="/hero.svg"
+        src="/hero.jpg"
         width={1920}
         height={600}
         alt="image"
-      ></img>
+      ></Image>
       <Hero />
       <Product />
       <Client />
@@ -23,6 +28,7 @@ export default function Home() {
       <Review />
       <Faq />
       <Contact />
+      </div>      
     </main>
   );
 }

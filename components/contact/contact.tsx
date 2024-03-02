@@ -4,8 +4,7 @@ import ContactForm from "../ContactForm";
 
 const Contact = () => {
   return (
-    <div className="overflow-x-hidden">
-      <div className="relative flex max-w-[1136px] h-[648px] bg-white">
+      <div className="flex w-auto h-[648px] bg-[#F7F8FB]">
         <div className="flex justify-between mt-20 ml-32 w-auto h-[468px]">
           <div className="w-[500px] mt-20 gap-5">
             <div className="text-5xl font-bold font-Satoshi tracking-[-3%] leading-[3rem]">
@@ -51,7 +50,6 @@ const Contact = () => {
           </div>
         </div>
       </div>
-    </div>
   );
 };
 

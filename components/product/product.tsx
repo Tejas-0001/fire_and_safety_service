@@ -28,7 +28,7 @@ const Product = () => {
                         </div>
                     </div>
                 </div>
-                <button className='mt-16 pl-3 pr-3 w-[300px] ml-[614px] rounded-md pt-3 pb-3 bg-[#E43333]'>Explore All Product and Details</button>
+                <button className='mt-16 pl-3 pr-3 w-[300px] ml-[614px] rounded-md pt-3 pb-3 bg-[#E43333] text-white'>Explore All Product and Details</button>
             </div>
 
         </div>
