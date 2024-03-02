@@ -19,7 +19,7 @@ function Carousel({ page }: { page: number }) {
   const items: Slide[][] = [list1, list2, list3];
   const slides = items[page];
   return (
-    <div className="flex flex-col w-auto mx-auto">
+    <div className="flex flex-col w-auto mx-auto px-20">
       {slides.map((slide, index) => (
         <div
           key={index}

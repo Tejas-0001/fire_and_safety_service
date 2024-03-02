@@ -1,26 +1,59 @@
 [
     {
-        "n":"3 ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"TROLLEY MOUNTED FIRE EXTINGUISHERS POWDER TYPE",
+        "d":"Fire Extinguisher As Per ISI conforming to IS: 10658 with CO2 (gas cartridge / outer cyclinder) , IS:4308, ISI Marked BC Powder. GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 25, 50, 75 ",
+        "Gas cartridge only available for 25kg & cyclinder is available for all",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with  G. M. Cap, Delivery hose, Squeeze grip nozzle"       
+    ],
         "i":"/product/p31.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"TROLLEY MOUNTED CO2 FIRE EXTINGUISHERS",
+        "d":" Fire Extinguisher ISI marked conforming to IS: 2878 GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 6.5, 09, 22.5 ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "OPERATING TEMPERATURE: - 30ºC to + 55ºC.",
+        "Complete with delivery hose horn, trolley, wheel type release valve, locking arrangement, and bracket."
+    ],
+        "i":"/product/p32.svg"
+    },
+    {
+        "n":"TROLLY MOUNTED WATER TYPE FIRE EXTINGUISHERS",
+        "d":" Fire Extinguisher As per ISI, IS:13385. GETECH Make",
+        "f":["CAPACITY (🇱) : 50 Liter ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with G.M. cap, Delivery hose, Discharge Nozzle & CO2 gas cartridge / outer CO2 Cyclinder."
+    ],
+        "i":"/product/p32.svg"
+    },
+    {
+        "n":"MECHANICAL FOAM (AFFF) TROLLEY MOUNTED FIRE EXTINGUISHERS",
+        "d":"Fire Extinguisher As Per ISI IS:13386. GETECH Make ",
+        "f":["CAPACITY (🇱) : 50 Liter ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with G.M. cap, Delivery hose, Discharge Nozzle & CO2 gas cartridge / outer CO2 Cyclinder."
+    ],
+        "i":"/product/p32.svg"
+    },
+    {
+        "n":"AUTOMATIC SPRINKLER HEADS",
+        "d":" Fire Extinguisher Sprinkler type As Per ISI Mark, IS:9972 GETECH Make",
+        "f":["TYPE : Pendent / Upright / Side wall / Conceled(Pendent) ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Glass Bulb 68° C",
+        "15mm Orifice"
+    ],
+        "i":"/product/p32.svg"
+    },
+    {
+        "n":"WATER SPRAY NOZZLE",
+        "d":" Fire Extinguisher Spray Nozzle GETECH Make",
+        "f":["TYPE : Medium Velocity , High Velocity ",
+        "MATERIAL : Stainless Steel / Brass",
+        "HSN CODE / GST RATE : 8424 / 18%"        
+    ],
         "i":"/product/p32.svg"
     }
 ]

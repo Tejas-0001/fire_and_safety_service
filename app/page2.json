@@ -1,62 +1,49 @@
 [
     {
-        "n":"2 ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
-        "i":"/product/p21.svg"
+        "n":"CLEAN AGENT TYPE FIRE EXTINGUISHERS (ECO FRIENDLY)",
+        "d":"Stored Pressure Type Fire Extinguisher filled with HFC 236FA Clean Agent Gas GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 01, 02, 04, 06 ",
+        "FIRE RATING 🔥 :  [8B, C], [8B, C], [1A, 13B, C], [1A, 21B, C]",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with squeeze grip release valve, locking arrangement, pressure gauge, bracket"       
+    ],
+    "i":"/product/p21.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"WET CHEMICAL (KITCHEN) 'K' TYPE FIRE EXTINGUISHER",
+        "d":"Stored Pressure type Fire extinguisher to Compete with all respect of Kitchen Fire. GETECH Make",
+        "f":["CAPACITY (🇱) : 04, 06, 09 Liter ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with SS Body squeeze grip release valve, locking arrangment, Pressure guage and bracket,"
+    ],
         "i":"/product/p22.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"CLEAN AGENT MODULAR TYPE FIRE EXTINGUISHERS CE CERTIFIED",
+        "d":"(Ceiling Mounted) Type Capacity 5 Kg CE Certified Fire Exginguishers filled with HFC 236FA Clean Agent Gas GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 05 ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete in all respect"       
+    ],
         "i":"/product/p23.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"ABC MODULAR TYPE FIRE EXTINGUISHERS CE CERTIFIED",
+        "d":"CE certified Fire Extinguisher filled with ISI marked, IS:14609 ABC Powder. GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 05, 10 ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete in all respect"       
+    ],
         "i":"/product/p24.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"CLEAN AGENT TYPE FIRE TRACE FIRE EXTINGUISHERS",
+        "d":"Fire Trace ( Fire Extinguisher / Tube ) GETECH Make",
+        "f":["CAP (🇰🇬) : 02, 04, 06 ",
+        "TUBE CAP : Per metre",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete in all respect"       
+    ],
         "i":"/product/p25.svg"
     }
 ]

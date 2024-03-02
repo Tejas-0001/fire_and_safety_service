@@ -1,61 +1,55 @@
 [
     {
-        "n":"PORTABLE FIRE EXTINGUISHERES (STORED PRESSURE) POWDER TYPE , (IS:15683)",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Fire Extinguisher (Stored Pressure type) Capacity 02 Kg duly ISI Marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder Complete with squeeze grip release valve, locking arrangement, pressure gauge, operating Temperature: - 10ºC to + 55ºC. GETECH Make",
-        "Fire Extinguisher (Stored Pressure type) Capacity 04 Kg duly ISI marked  conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder complete with squeeze grip release valve, discharge pipe, locking arrangement, pressure gauge, bracket. Operating Temperature: - 10ºC to + 55ºC. GETECH Make",
-        "Fire Extinguisher (Stored Pressure type) Capacity 06 Kg duly ISI marked  conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder complete with squeeze grip release valve, discharge pipe, locking arrangement, pressure gauge, bracket. Operating Temperature: - 10ºC to + 55ºC. GETECH Make",
-        "Fire Extinguisher (Stored Pressure type) Capacity 09 Kg duly ISI marked  conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder complete with squeeze grip release valve, discharge pipe, locking arrangement, pressure gauge, bracket. Operating Temperature: - 10ºC to + 55ºC. GETECH Make"
+        "n":"PORTABLE FIRE EXTINGUISHERES (STORED PRESSURE) POWDER TYPE",
+        "d":"ISI Marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 02, 04, 06, 09 ",
+        "FIRE RATING 🔥 :  [1A, 8B, C], [1A, 13B, C], [2A, 21B, C], [3A, 34B, C]",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
+        "Complete ith squeeze grip release valve, locking arrangement, pressure gauge"        
     ],
         "i":"/product/p11.svg"
     },
     {
-        "n":"PORTABLE FIRE EXTINGUISHERS (GAS CARTRIDGE) POWDER TYPE , (IS:15683)",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Fire Extinguisher (Gas Cartridge type) Capacity 04 Kg duly ISI marked conforming  to IS: 15683:2006, with IS 14609, ISI marked ABC powder; Complete with IS 4947 ISI marked Gas Cartridge with squeeze grip release valve, discharge, pipe locking arrangement, pressure gauge, bracket. Operating Temperature: - 10ºC to + 55ºC. GETECH Make",
-        
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"PORTABLE FIRE EXTINGUISHERS (GAS CARTRIDGE) POWDER TYPE",
+        "d":" ISI marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 04, 06, 09 ",
+        "FIRE RATING 🔥 :  [13B, C], [21B, C], [34B, C] ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
+        "Complete with IS 4947 ISI marked Gas Cartridge with squeeze grip release valve, discharge, pipe Locking arrangement, pressure gauge, bracket."
+    ],
         "i":"/product/p12.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"PORTABLE FIRE EXTINGUISHERS CO2 TYPE",
+        "d":"ISI marked conforming to IS: 15683. GETECH Make",
+        "f":["CAPACITY (🇰🇬) : 02, 4.5 ",
+        "FIRE RATING 🔥 :  [8B, C], [13B, C] ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "OPERATING TEMPERATURE: - 30ºC to + 55ºC.",
+        "Complete with delivery hose horn, wheel type release valve, locking arrangement, and bracket."
+    ],
         "i":"/product/p13.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"PORTABLE FIRE EXTINGUISHERS WATER TYPE",
+        "d":"Stored pressure type ISI marked conforming to IS:15683 || Gas Cartridge type ISI marked conforming to IS:15683 with IS:4947 Gas Cartridge GETECH Make",
+        "f":["CAPACITY (🇱) : 09 Liter ",
+        "FIRE RATING 🔥 :  3A ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with delivery hose, squeeze grip release, valve, locking"
+    ],
         "i":"/product/p14.svg"
     },
     {
-        "n":"ABC Stored Pressure Type Fire Extinguisher",
-        "d":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "f":["Deep drawn container made of high tensile cold rolled sheet.",
-        "Minimum welding points to give attractive appearance.",
-        "UFS Extinguishers pressurized to 15 bar and 100 % leakage tested.",
-        "The epoxy powder coating of 50 to 90 micron thickness provides inner & outer surface of the body.",
-        "The easy squeeze grip type control valve provides for quick activation of the Extinguisher.",
-        "Easy operation, maintenance, refilling and service.",
-        "UFS extinguishers designed in compliance with BIS Standards."],
+        "n":"MECHANICAL FOAM (AFFF) PORTABLE FIRE EXTINGUISHERS",
+        "d":"(Stored pressure / Gas Cartridge) type ISI Marked conforming to IS:15683. GETECH Make",
+        "f":["CAPACITY (🇱) : 9 Liter ",
+        "FIRE RATING 🔥 :  3A,34B ",
+        "HSN CODE / GST RATE : 8424 / 18%",
+        "Complete with Delivery hose, squeeze grip release valveocking arrangement and Bracket,"
+    ],
         "i":"/product/p15.svg"
     }
 ]
