@@ -1,55 +1,60 @@
 [
     {
-        "n":"PORTABLE FIRE EXTINGUISHERES (STORED PRESSURE) POWDER TYPE",
-        "d":"ISI Marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make",
-        "f":["CAPACITY (🇰🇬) : 02, 04, 06, 09 ",
-        "FIRE RATING 🔥 :  [1A, 8B, C], [1A, 13B, C], [2A, 21B, C], [3A, 34B, C]",
-        "HSN CODE / GST RATE : 8424 / 18%",
-        "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
-        "Complete ith squeeze grip release valve, locking arrangement, pressure gauge"        
-    ],
-        "i":"/product/p11.svg"
+        "n": "PORTABLE FIRE EXTINGUISHERES (STORED PRESSURE) POWDER TYPE",
+        "d": "ISI Marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make. Mechanical Foam fire extinguishers, also known as AFFF (Aqueous Film Forming Foam) extinguishers, are effective tools for tackling fires involving flammable liquids (Class B) such as petrol, oil, and diesel. They work by forming a blanket of foam over the fuel surface, which helps to smother the flames and prevent the fire from spreading.These extinguishers contain a foam-forming solution that is expelled from the extinguisher as a foam spray when discharged. The foam works by cooling the fuel surface and suppressing the release of flammable vapours, thereby extinguishing the fire and are suitable for use in a variety of environments, including industrial facilities, garages, workshops, and warehouses.",
+        "f": [
+            "CAPACITY (🇰🇬) : 02, 04, 06, 09 ",
+            "FIRE RATING 🔥 :  [1A, 8B, C], [1A, 13B, C], [2A, 21B, C], [3A, 34B, C]",
+            "HSN CODE / GST RATE : 8424 / 18%",
+            "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
+            "Complete ith squeeze grip release valve, locking arrangement, pressure gauge"
+        ],
+        "i": "/product/p11.svg"
     },
     {
-        "n":"PORTABLE FIRE EXTINGUISHERS (GAS CARTRIDGE) POWDER TYPE",
-        "d":" ISI marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make",
-        "f":["CAPACITY (🇰🇬) : 04, 06, 09 ",
-        "FIRE RATING 🔥 :  [13B, C], [21B, C], [34B, C] ",
-        "HSN CODE / GST RATE : 8424 / 18%",
-        "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
-        "Complete with IS 4947 ISI marked Gas Cartridge with squeeze grip release valve, discharge, pipe Locking arrangement, pressure gauge, bracket."
-    ],
-        "i":"/product/p12.svg"
+        "n": "PORTABLE FIRE EXTINGUISHERS (GAS CARTRIDGE) POWDER TYPE",
+        "d": " ISI marked conforming to IS: 15683:2006, with IS 14609, ISI marked ABC powder GETECH Make DCP (Dry Chemical Powder) fire extinguishers are versatile and effective tools for combating fires involving flammable liquids (Class B) and gases, as well as fires involving energized electrical equipment (Class C).These extinguishers contain a dry chemical powder, typically monoammonium phosphate or sodium bicarbonate, which is expelled from the extinguisher as a fine powder cloud when discharged. The powder works by interrupting the chemical reaction of the fire triangle – heat, fuel, and oxygen – effectively smothering the flames and suppressing the fire.",
+        "f": [
+            "CAPACITY (🇰🇬) : 04, 06, 09 ",
+            "FIRE RATING 🔥 :  [13B, C], [21B, C], [34B, C] ",
+            "HSN CODE / GST RATE : 8424 / 18%",
+            "OPERATING TEMPERATURE: - 10ºC to + 55ºC.",
+            "Complete with IS 4947 ISI marked Gas Cartridge with squeeze grip release valve, discharge, pipe Locking arrangement, pressure gauge, bracket."
+        ],
+        "i": "/product/p12.svg"
     },
     {
-        "n":"PORTABLE FIRE EXTINGUISHERS CO2 TYPE",
-        "d":"ISI marked conforming to IS: 15683. GETECH Make",
-        "f":["CAPACITY (🇰🇬) : 02, 4.5 ",
-        "FIRE RATING 🔥 :  [8B, C], [13B, C] ",
-        "HSN CODE / GST RATE : 8424 / 18%",
-        "OPERATING TEMPERATURE: - 30ºC to + 55ºC.",
-        "Complete with delivery hose horn, wheel type release valve, locking arrangement, and bracket."
-    ],
-        "i":"/product/p13.svg"
+        "n": "PORTABLE FIRE EXTINGUISHERS CO2 TYPE",
+        "d": "ISI marked conforming to IS: 15683. GETECH Make CO2 (Carbon Dioxide) fire extinguishers are highly effective tools for tackling fires involving flammable liquids (Class B) and electrical fires (Class C). They work by displacing oxygen and smothering the fire, effectively cutting off its fuel source.These extinguishers contain pressurised carbon dioxide gas stored in a cylinder. When discharged, the CO2 gas expands rapidly, creating a cold discharge that helps to cool the fire and suffocate it by displacing oxygen.CO2 fire extinguishers are typically identified by their distinctive black color coding and are suitable for use in environments where other types of extinguishers may cause damage, such as computer rooms, laboratories, and electrical substations. They leave behind no residue, making them ideal for protecting sensitive equipment and materials.",
+        "f": [
+            "CAPACITY (🇰🇬) : 02, 4.5 ",
+            "FIRE RATING 🔥 :  [8B, C], [13B, C] ",
+            "HSN CODE / GST RATE : 8424 / 18%",
+            "OPERATING TEMPERATURE: - 30ºC to + 55ºC.",
+            "Complete with delivery hose horn, wheel type release valve, locking arrangement, and bracket."
+        ],
+        "i": "/product/p13.svg"
     },
     {
-        "n":"PORTABLE FIRE EXTINGUISHERS WATER TYPE",
-        "d":"Stored pressure type ISI marked conforming to IS:15683 || Gas Cartridge type ISI marked conforming to IS:15683 with IS:4947 Gas Cartridge GETECH Make",
-        "f":["CAPACITY (🇱) : 09 Liter ",
-        "FIRE RATING 🔥 :  3A ",
-        "HSN CODE / GST RATE : 8424 / 18%",
-        "Complete with delivery hose, squeeze grip release, valve, locking"
-    ],
-        "i":"/product/p14.svg"
+        "n": "PORTABLE FIRE EXTINGUISHERS WATER TYPE",
+        "d": "Stored pressure type ISI marked conforming to IS:15683 || Gas Cartridge type ISI marked conforming to IS:15683 with IS:4947 Gas Cartridge GETECH Make Water fire extinguishers are among the most common types of fire extinguishers, particularly for Class A fires involving ordinary combustibles such as wood, paper, cloth, and plastics. These extinguishers are highly effective at rapidly cooling the fuel source and extinguishing the fire.Water fire extinguishers typically contain plain water or water mixed with an additive to enhance its firefighting capabilities, such as a wetting agent or antifreeze solution. When discharged, the water is expelled from the extinguisher as a strong stream or spray, which helps to saturate the burning material and reduce its temperature, thereby suppressing the fire, suitable for use in various environments, including homes, offices, schools, and industrial facilities. However, they should not be used on fires involving flammable liquids, gases, or electrical equipment, as water can conduct electricity and may exacerbate these types of fires or pose an electrical shock hazard",
+        "f": [
+            "CAPACITY (🇱) : 09 Liter ",
+            "FIRE RATING 🔥 :  3A ",
+            "HSN CODE / GST RATE : 8424 / 18%",
+            "Complete with delivery hose, squeeze grip release, valve, locking"
+        ],
+        "i": "/product/p14.svg"
     },
     {
-        "n":"MECHANICAL FOAM (AFFF) PORTABLE FIRE EXTINGUISHERS",
-        "d":"(Stored pressure / Gas Cartridge) type ISI Marked conforming to IS:15683. GETECH Make",
-        "f":["CAPACITY (🇱) : 9 Liter ",
-        "FIRE RATING 🔥 :  3A,34B ",
-        "HSN CODE / GST RATE : 8424 / 18%",
-        "Complete with Delivery hose, squeeze grip release valveocking arrangement and Bracket,"
-    ],
-        "i":"/product/p15.svg"
+        "n": "MECHANICAL FOAM (AFFF) PORTABLE FIRE EXTINGUISHERS",
+        "d": "(Stored pressure / Gas Cartridge) type ISI Marked conforming to IS:15683. GETECH Make Mechanical Foam fire extinguishers, also known as AFFF (Aqueous Film Forming Foam) extinguishers, are effective tools for tackling fires involving flammable liquids (Class B) such as petrol, oil, and diesel. They work by forming a blanket of foam over the fuel surface, which helps to smother the flames and prevent the fire from spreading.These extinguishers contain a foam-forming solution that is expelled from the extinguisher as a foam spray when discharged. The foam works by cooling the fuel surface and suppressing the release of flammable vapours, thereby extinguishing the fire and are suitable for use in a variety of environments, including industrial facilities, garages, workshops, and warehouses.",
+        "f": [
+            "CAPACITY (🇱) : 9 Liter ",
+            "FIRE RATING 🔥 :  3A,34B ",
+            "HSN CODE / GST RATE : 8424 / 18%",
+            "Complete with Delivery hose, squeeze grip release valveocking arrangement and Bracket,"
+        ],
+        "i": "/product/p15.svg"
     }
 ]
